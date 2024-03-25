@@ -4,7 +4,7 @@
   <artifactId>camunda</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <properties>
-    <!-- spring -->
+    <!-- spring and camunda -->
     <spring.boot.version>2.7.18</spring.boot.version>
     <camunda.spring.boot.starter.version>7.20.0</camunda.spring.boot.starter.version>
     <!-- maven -->
